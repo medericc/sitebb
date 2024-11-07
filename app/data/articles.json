@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Exemple d'article",
+        "category": "LFB",
+        "content": "Contenu de l'article...",
+        "tags": ["France", "LFB"],
+        "author": "François",
+        "date": "2024-11-03",
+        "img": "/image/article1.jpg",
+        "popular": 4
+      },
+      {
+        "id": 2,
+        "title": "Exemple d'article",
+        "category": "NF1",
+        "content": "Contenu de l'article...",
+        "tags": ["France", "NF1"],
+        "author": "Thomas",
+        "date": "2024-11-04",
+        "img": "/image/article2.jpg",
+        "popular": 2
+      },
+      {
+        "id": 2,
+        "title": "Exemple d'article",
+        "category": "NF1",
+        "content": "Contenu de l'article...",
+        "tags": ["France", "NF1"],
+        "author": "Thomas",
+        "date": "2024-11-04",
+        "img": "/image/article2.jpg",
+        "popular": 2
+      },
+      {
+        "id": 2,
+        "title": "Exemple d'article",
+        "category": "NF1",
+        "content": "Contenu de l'article...",
+        "tags": ["France", "NF1"],
+        "author": "Thomas",
+        "date": "2024-11-04",
+        "img": "/image/article2.jpg",
+        "popular": 2
+      }
+]
+  
